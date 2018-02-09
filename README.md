@@ -1,6 +1,6 @@
 # IoT-Reference-Architectures
 
-Here is a random list of different Internet of Things (IoT) reference architectures. Later on I will try to add more details to all those links. Feel free to send me some more.
+Here is a random list of different Internet of Things (IoT) reference architectures. I cannot tell about the quality of the documents. Later on, I will try to add more details to all those links and give them a rating. Feel free to send me some more.
 
 ## General
 * [A Reference Architecture For The Internet of Things](https://wso2.com/whitepapers/a-reference-architecture-for-the-internet-of-things/)
