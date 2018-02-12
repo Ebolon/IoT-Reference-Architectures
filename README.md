@@ -14,5 +14,5 @@ Here is a random list of different Internet of Things (IoT) reference architectu
 
 
 ## Other
-* (Internet of Things Patterns)[http://www.iaas.uni-stuttgart.de/RUS-data/INPROC-2016-46%20-%20Internet%20of%20Things%20Patterns.pdf]
-* (Reference Architectures for the Internet of Things)[https://archiv.ias.uni-stuttgart.de/dokumente/publikationen/2016_Reference_Architectures_for_the_Internet_of_Things.pdf]
+* [Internet of Things Patterns](http://www.iaas.uni-stuttgart.de/RUS-data/INPROC-2016-46%20-%20Internet%20of%20Things%20Patterns.pdf)
+* [Reference Architectures for the Internet of Things](https://archiv.ias.uni-stuttgart.de/dokumente/publikationen/2016_Reference_Architectures_for_the_Internet_of_Things.pdf)
