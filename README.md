@@ -10,7 +10,8 @@ Here is a random list of different Internet of Things (IoT) reference architectu
 * [Intel® IoT Platform Reference Architecture](https://www.intel.de/content/www/de/de/internet-of-things/white-papers/iot-platform-reference-architecture-paper.html)
 
 ## Platform specific
-* [Microsoft Azure IoT reference architecture](https://azure.microsoft.com/de-de/updates/microsoft-azure-iot-reference-architecture-available/)
+* [Microsoft Azure IoT Reference Architecture (2016)](https://azure.microsoft.com/de-de/updates/microsoft-azure-iot-reference-architecture-available/)
+* [Microsoft Azure IoT Reference Architecture updated (2018)](https://blogs.msdn.microsoft.com/wriju/2018/02/26/azure-iot-reference-architecture/)
 
 
 ## Other
