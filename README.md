@@ -12,7 +12,7 @@ Differences](http://www.iaas.uni-stuttgart.de/RUS-data/INBOOK-2018-01%20-%20A%20
 * [Industrial Internet Reference Architecture](http://www.iiconsortium.org/IIRA-1-7-ajs.pdf)
 * [Intel® IoT Platform Reference Architecture](https://www.intel.de/content/www/de/de/internet-of-things/white-papers/iot-platform-reference-architecture-paper.html)
 
-## Platform specific
+## Platform-specific
 ### Azure
 * [Microsoft Azure IoT Reference Architecture (2016)](https://azure.microsoft.com/de-de/updates/microsoft-azure-iot-reference-architecture-available/)
 * [Microsoft Azure IoT Reference Architecture updated (2018)](https://blogs.msdn.microsoft.com/wriju/2018/02/26/azure-iot-reference-architecture/)
