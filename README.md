@@ -13,9 +13,13 @@ Differences](http://www.iaas.uni-stuttgart.de/RUS-data/INBOOK-2018-01%20-%20A%20
 * [Intel® IoT Platform Reference Architecture](https://www.intel.de/content/www/de/de/internet-of-things/white-papers/iot-platform-reference-architecture-paper.html)
 
 ## Platform specific
+### Azure
 * [Microsoft Azure IoT Reference Architecture (2016)](https://azure.microsoft.com/de-de/updates/microsoft-azure-iot-reference-architecture-available/)
 * [Microsoft Azure IoT Reference Architecture updated (2018)](https://blogs.msdn.microsoft.com/wriju/2018/02/26/azure-iot-reference-architecture/)
 
+### GCP
+[Designing a Connected Vehicle Platform on Cloud IoT Core](https://cloud.google.com/solutions/designing-connected-vehicle-platform)
+[Architecture: Real-Time Stream Processing for IoT](https://cloud.google.com/solutions/architecture/real-time-stream-processing-iot)
 
 ## Other
 * [Internet of Things Patterns](http://www.iaas.uni-stuttgart.de/RUS-data/INPROC-2016-46%20-%20Internet%20of%20Things%20Patterns.pdf)
